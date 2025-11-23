@@ -12,6 +12,8 @@ Pursuing B.tech Undergraduate at Indian Institute of technology Kharagpur.
 ![](https://nirzak-streak-stats.vercel.app/?user=agarwalsoham993&theme=gotham&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=agarwalsoham993&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+###
+[![Unbeatable Tic-Tac-Toe](images/unbeatable_tictactoe.png)](https://agarwalsoham993.github.io/Unbeatable_tic_tac_toe/)
 ### 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
