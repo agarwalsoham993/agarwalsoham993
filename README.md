@@ -76,56 +76,77 @@
 - **Tech**: Go
 - **Description**: A sandboxed execution environment for running user-submitted code safely at scale. Useful for education platforms, code testing, and demoing language runtimes.
 
-### 2. **RAG** — Retrieval Augmented Generation Pipeline
-- **Repo**: https://github.com/agarwalsoham993/RAG
+<img width="1916" height="945" alt="image" src="https://github.com/user-attachments/assets/e05c14f2-d8b9-42ec-863d-9e083cbe600f" />
+
+### 2. **OpenBALC** — Open source courses management and AI learning platform. 
+- **Repo**: https://github.com/threnlabs/OpenBalc
+- **Live**: https://openbalc.threnlabs.com/
 - **Tech**: Python, Embeddings, Vector Stores
 - **Description**: End-to-end RAG pipeline with embeddings, vector store integration (FAISS, Milvus, Pinecone), and example prompts to build intelligent chat assistants.
 
-### 3. **ragflow** — Production-Grade RAG Engine
-- **Repo**: https://github.com/agarwalsoham993/ragflow
-- **Live**: https://ragflow.io
-- **Tech**: Python, FastAPI, LLMs
-- **Description**: Production-oriented RAG engine with agent orchestration, embeddings pipelines, and connectors to vector stores for enterprise-grade document retrieval.
+<img width="1496" height="1013" alt="image" src="https://github.com/user-attachments/assets/ca81f8dd-4cea-43b0-89f4-642030572f62" />
 
-### 4. **GNN-QC** — Graph Neural Networks × Quantum Computing
+### 3. **CalendarSYNC** — 
+- **Repo**: https://github.com/Threnlabs/CalendarSYNC
+- **Tech**: Python, FastAPI, LLMs
+- **Description**: Intelligent Scheduling - Automatically find the best times for classes and meetings, ensuring a conflict-free schedule.
+
+<img width="1866" height="1007" alt="image" src="https://github.com/user-attachments/assets/e366a47a-e336-4f30-9944-d15b8813213e" />
+
+### 4. **GNN-QC** — Graph Neural Networks × Quantitative Finance
 - **Repo**: https://github.com/agarwalsoham993/GNN-QC
 - **Tech**: PyTorch, Quantum Computing
 - **Description**: Exploratory research notebooks combining graph neural networks with small quantum circuits for hybrid quantum-classical prototyping.
 
-### 5. **Quant-Sokoban** — Quantum-Inspired Puzzle Solver
-- **Repo**: https://github.com/agarwalsoham993/Quant-sokoban
-- **Tech**: Python, Quantum Optimization
-- **Description**: Sokoban puzzle solvers using quantum-inspired optimization techniques with interactive visualization notebooks.
+<img width="1790" height="490" alt="image" src="https://github.com/user-attachments/assets/99bfa220-b410-4a8f-96d2-1a03c1ff7386" />
 
-### 6. **WhatsApp-RAG-Example** — RAG Chatbot on WhatsApp
+### 5. **WhatsApp-RAG-Example** — RAG Chatbot on WhatsApp
 - **Repo**: https://github.com/agarwalsoham993/WhatsApp-RAG-Example
 - **Tech**: Python, WhatsApp API, RAG
 - **Description**: Complete example integrating a RAG-powered chatbot with WhatsApp messaging using lightweight webhook architecture.
 
-### 7. **qc-admin** — Admin Dashboard UI
-- **Repo**: https://github.com/agarwalsoham993/qc-admin
-- **Live**: https://qc-admin.vercel.app
-- **Tech**: React, TypeScript, Tailwind
-- **Description**: Modern admin dashboard and UI system used across demo projects with responsive design and dark mode support.
-
 ---
 
-## 🚀 Key Focus Areas
+<h2 align="center">🚀 Key Focus Areas</h2>
 
-### Embeddings & Retrieval Systems
-- Open-source and cloud-hosted embedding models
-- Vector store integration (FAISS, Milvus, Pinecone)
-- Production-ready RAG pipelines for LLM applications
-
-### Quantum Algorithms & Optimization
-- Quantum circuit design and simulation
-- Hybrid quantum-classical algorithms
-- Optimization research with quantum-inspired methods
-
-### Scalable Backend Systems
-- Microservices architecture with FastAPI
-- Container orchestration and deployment
-- High-performance inference servers
+<table width="100%" align="center">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Embeddings & Retrieval Systems</h3>
+      <ul>
+        <li>Open-source and cloud-hosted embedding models</li>
+        <li>Vector store integration (FAISS, Milvus, Pinecone)</li>
+        <li>Production-ready RAG pipelines for LLM applications</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Quantum Algorithms & Optimization</h3>
+      <ul>
+        <li>Quantum circuit design and simulation</li>
+        <li>Hybrid quantum-classical algorithms</li>
+        <li>Optimization research with quantum-inspired methods</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Scalable Backend Systems</h3>
+      <ul>
+        <li>Microservices architecture with FastAPI</li>
+        <li>Container orchestration and deployment</li>
+        <li>High-performance inference servers</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3>MLOps & AI Orchestration</h3>
+      <ul>
+        <li>Agentic workflows and LLM orchestration (LangChain, AutoGen)</li>
+        <li>End-to-end model lifecycle management (MLflow, W&B)</li>
+        <li>Data pipeline automation and model deployment</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ---
 
