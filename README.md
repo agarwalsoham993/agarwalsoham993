@@ -1,124 +1,152 @@
-# Hi there, I'm Soham Agarwal
+<h1 align="left">Hi there, I'm Soham Agarwal 👋</h1>
+
+<table width="100%" style="border: none; border-collapse: collapse;">
+<tr>
+
+<td width="65%" valign="top">
+<h2>🎯 About Me</h2>
+<p>I'm a full-stack developer and AI/ML enthusiast passionate about building production-ready systems that solve real problems. I specialize in:</p>
+<ul>
+<li><b>Machine Learning & AI:</b> practical models, embeddings, and RAG pipelines</li>
+<li><b>Backend Systems:</b> scalable APIs, microservices, and deployment infrastructure</li>
+<li><b>Quantum Computing:</b> quantum algorithms, optimization research, and prototypes</li>
+<li><b>Computer Vision & Game AI:</b> visual systems and intelligent agents</li>
+</ul>
+<p>I focus on reproducible demos, clean APIs, and deployable prototypes at the intersection of research and product.</p>
+
+<hr>
+
+<h2>🛠️ Tech Stack</h2>
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+<img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" />
+</p>
+
+<hr>
+
+<h2>🤝 Connect With Me</h2>
+<p>
+<a href="https://github.com/agarwalsoham993"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+<a href="https://linkedin.com/in/agarwalsoham993"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://medium.com/@agarwalsoham993"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" /></a>
+<a href="https://youtube.com/@Paperback-og"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white" alt="YouTube" /></a>
+<a href="https://sohamagarwal.threnlabs.com"><img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=globe&logoColor=white" alt="Website" /></a>
+</p>
+
+<br>
+<p>Continuously building and learning | <img src="https://komarev.com/ghpvc/?username=agarwalsoham993&color=blue&style=flat-square" alt="Profile Views" style="vertical-align: middle;" /></p>
+</td>
+
+<td width="35%" valign="top" align="center">
+<img src="https://github.com/user-attachments/assets/a775d7eb-5137-4c3e-acab-4673d2c4d46f" width="250" alt="Soham Agarwal Profile" style="border-radius: 10px;" />
+<br><br>
+<h3>Soham Agarwal</h3>
+<p>🚀 Full-stack developer • AI/ML enthusiast</p>
+<p>🎓 IIT Kharagpur</p>
+</td>
+
+</tr>
+</table>
+
+--- 
+## 📊 GitHub Stats
 
 <div align="center">
-  <table>
-    <tr>
-      <td width="60%" align="left" valign="top">
 
-## About me
+![](https://github-readme-stats.shion.dev/api?username=agarwalsoham993&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=agarwalsoham993&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=agarwalsoham993&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-I'm a full‑stack developer and AI/ML enthusiast from IIT Kharagpur. I like building practical systems—backend services, ML models, and small research prototypes—that solve real problems.
-
-- Machine learning & AI: practical models and experiments
-- Backend systems: scalable APIs and deployment
-- Quantum computing: experiments and prototypes
-- Computer vision & game AI
-
-### Connect
-[GitHub](https://github.com/agarwalsoham993) • [LinkedIn](https://linkedin.com/in/agarwalsoham993) • [Medium](https://medium.com/@agarwalsoham993)
-
-Email: agarwalsoham993@gmail.com
-
-      </td>
-      <td width="40%" align="center">
-
-![Profile Banner](https://via.placeholder.com/400x300?text=Soham+Agarwal)
-
-**Primary tools:** Python • Go • JavaScript/TypeScript • FastAPI • Docker • PyTorch/TensorFlow
-
-      </td>
-    </tr>
-  </table>
 </div>
 
 ---
 
-## Quick summary
+## 🎯 Highlighted Projects
 
-I build production-ready systems at the intersection of ML and backend engineering: RAG pipelines, embedding stores, scalable inference, and experimental quantum optimization research. I focus on reproducible demos, clean APIs, and deployable prototypes.
+### 1. **Code-Execution-Engine** — Secure, Scalable Code Runner
+- **Repo**: https://github.com/agarwalsoham993/Code-Execution-engine
+- **Live Demo**: https://agarwalsoham993.github.io/Code-Execution-engine/
+- **Tech**: Go
+- **Description**: A sandboxed execution environment for running user-submitted code safely at scale. Useful for education platforms, code testing, and demoing language runtimes.
 
----
+### 2. **RAG** — Retrieval Augmented Generation Pipeline
+- **Repo**: https://github.com/agarwalsoham993/RAG
+- **Tech**: Python, Embeddings, Vector Stores
+- **Description**: End-to-end RAG pipeline with embeddings, vector store integration (FAISS, Milvus, Pinecone), and example prompts to build intelligent chat assistants.
 
-## GitHub / Live stats
+### 3. **ragflow** — Production-Grade RAG Engine
+- **Repo**: https://github.com/agarwalsoham993/ragflow
+- **Live**: https://ragflow.io
+- **Tech**: Python, FastAPI, LLMs
+- **Description**: Production-oriented RAG engine with agent orchestration, embeddings pipelines, and connectors to vector stores for enterprise-grade document retrieval.
 
-I keep most of my work public. The dynamic cards below show recent activity and top languages (if they don't render for you, follow the Projects link).
+### 4. **GNN-QC** — Graph Neural Networks × Quantum Computing
+- **Repo**: https://github.com/agarwalsoham993/GNN-QC
+- **Tech**: PyTorch, Quantum Computing
+- **Description**: Exploratory research notebooks combining graph neural networks with small quantum circuits for hybrid quantum-classical prototyping.
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=agarwalsoham993&show_icons=true&theme=radical" alt="Soham's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=agarwalsoham993&layout=compact&theme=radical" alt="Top languages" />
-</p>
+### 5. **Quant-Sokoban** — Quantum-Inspired Puzzle Solver
+- **Repo**: https://github.com/agarwalsoham993/Quant-sokoban
+- **Tech**: Python, Quantum Optimization
+- **Description**: Sokoban puzzle solvers using quantum-inspired optimization techniques with interactive visualization notebooks.
 
-Browse projects: https://github.com/agarwalsoham993?tab=repositories
+### 6. **WhatsApp-RAG-Example** — RAG Chatbot on WhatsApp
+- **Repo**: https://github.com/agarwalsoham993/WhatsApp-RAG-Example
+- **Tech**: Python, WhatsApp API, RAG
+- **Description**: Complete example integrating a RAG-powered chatbot with WhatsApp messaging using lightweight webhook architecture.
 
----
-
-## Highlighted projects (with brief descriptions)
-
-1) Code-Execution-engine — Secure, scalable code runner (Go)
-- Repo: https://github.com/agarwalsoham993/Code-Execution-engine
-- Live/demo: https://agarwalsoham993.github.io/Code-Execution-engine/
-- What it's about: a sandboxed execution environment for running user-submitted code safely at scale. Useful for education, testing, and demoing language runtimes.
-
-2) GNN-QC — Graph Neural Nets × Quantum Computing (notebook)
-- Repo: https://github.com/agarwalsoham993/GNN-QC
-- What it's about: exploratory notebooks combining graph neural networks with small quantum circuits for research and prototyping.
-
-3) RAG — Retrieval Augmented Generation pipeline
-- Repo: https://github.com/agarwalsoham993/RAG
-- What it's about: end-to-end RAG pipeline with embeddings, vector store integration, and example prompts to build chat assistants.
-
-4) Quant-sokoban — Puzzle solver with quantum-inspired methods
-- Repo: https://github.com/agarwalsoham993/Quant-sokoban
-- What it's about: solvers and visualization notebooks for Sokoban using quantum-inspired optimization techniques.
-
-5) WhatsApp-RAG-Example — RAG chatbot on WhatsApp
-- Repo: https://github.com/agarwalsoham993/WhatsApp-RAG-Example
-- What it's about: example integrating a RAG chatbot with WhatsApp messaging using a lightweight webhook demo.
-
-6) qc-admin — Admin dashboard
-- Repo: https://github.com/agarwalsoham993/qc-admin
-- Live: https://qc-admin.vercel.app
-- What it's about: dashboard and admin UI used in some demo projects (built with modern frontend stack).
-
-7) ragflow — RAG engine with agent capabilities
-- Repo: https://github.com/agarwalsoham993/ragflow
-- Live: https://ragflow.io
-- What it's about: production-oriented RAG engine with agent orchestration, embeddings pipelines, and connectors to vector stores.
-
-If you'd like different projects emphasized, tell me which ones and I will update the list and order.
+### 7. **qc-admin** — Admin Dashboard UI
+- **Repo**: https://github.com/agarwalsoham993/qc-admin
+- **Live**: https://qc-admin.vercel.app
+- **Tech**: React, TypeScript, Tailwind
+- **Description**: Modern admin dashboard and UI system used across demo projects with responsive design and dark mode support.
 
 ---
 
-## Images & screenshots
+## 🚀 Key Focus Areas
 
-To display project previews in this README, add screenshots into this repo under `images/` using these suggested filenames. If you prefer, I can add smaller placeholder images here or reference external screenshots.
+### Embeddings & Retrieval Systems
+- Open-source and cloud-hosted embedding models
+- Vector store integration (FAISS, Milvus, Pinecone)
+- Production-ready RAG pipelines for LLM applications
 
-- images/code-exec.png — screenshot of the Code Execution Engine UI or demo page. Source: https://agarwalsoham993.github.io/Code-Execution-engine/
-- images/ragflow.png — screenshot of https://ragflow.io (home page or demo flow).
-- images/qc-admin.png — screenshot of https://qc-admin.vercel.app (admin dashboard).
-- images/quant-sokoban.png — gameplay or solver visualization from the Quant-sokoban notebooks.
-- images/whatsapp-rag.png — example chat screenshot from WhatsApp-RAG-Example.
+### Quantum Algorithms & Optimization
+- Quantum circuit design and simulation
+- Hybrid quantum-classical algorithms
+- Optimization research with quantum-inspired methods
 
-Add these files to this repository under `images/` and I will render them below.
-
----
-
-## Embeddings, RAG & demos
-
-I work a lot with embeddings and retrieval. Typical components I use and demos available in my repos:
-
-- Embedding models: open-source (sentence-transformers) and cloud-hosted embeddings.
-- Vector stores: FAISS, Milvus, Pinecone (examples in RAG and ragflow repos).
-- Demos: the RAG repo and ragflow live demos show pipelines for indexing docs, creating embeddings, and running retrieval-augmented chat flows.
-
-See projects: https://github.com/agarwalsoham993/RAG and https://github.com/agarwalsoham993/ragflow
+### Scalable Backend Systems
+- Microservices architecture with FastAPI
+- Container orchestration and deployment
+- High-performance inference servers
 
 ---
 
-## What I work on
+## 📚 Current Work
 
-I’m currently focused on quantum algorithms for optimization, RAG systems and production‑grade LLM tooling, and scalable backend systems. I enjoy projects where research meets product—building reproducible demos and deployable services.
+I'm actively working on:
+- Advanced RAG systems and LLM tooling for production environments
+- Quantum algorithms for combinatorial optimization
+- Scalable backend infrastructure and distributed systems
+- Research prototypes that bridge theory and practical application
 
 ---
 
-If you'd like the README to be shorter or to highlight different projects, tell me which sections to remove or which projects to promote and I’ll update it.
+## 🤝 Connect With Me
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/agarwalsoham993)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/agarwalsoham993)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@agarwalsoham993)
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/@Paperback-og)
+[![website](https://globe.img](https://sohamagarwal.threnlabs.com)
+
+---
+
+
