@@ -9,8 +9,8 @@
 <ul>
 <li><b>Machine Learning & AI:</b> practical models, embeddings, and RAG pipelines</li>
 <li><b>Backend Systems:</b> scalable APIs, microservices, and deployment infrastructure</li>
-<li><b>Quantum Computing:</b> quantum algorithms, optimization research, and prototypes</li>
-<li><b>Computer Vision & Game AI:</b> visual systems and intelligent agents</li>
+<li><b>Quantative Finance:</b> Portfolio Optimization, Quantitative research, Financial Modeling</li>
+<li><b>Computer Vision & Game AI:</b> visual systems and game theory</li>
 </ul>
 <p>I focus on reproducible demos, clean APIs, and deployable prototypes at the intersection of research and product.</p>
 
