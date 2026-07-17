@@ -1,18 +1,22 @@
-<h1 align="left">Hi there, I'm Soham Agarwal 👋</h1>
+<h1 align="left"> 𑣲 ❤︎ Hi, Myself Soham Agarwal,👋</h1>
 
 <table width="100%" style="border: none; border-collapse: collapse;">
 <tr>
 
 <td width="65%" valign="top">
-<h2>🎯 About Me</h2>
+  
+I am a 20 year old from India trying to figure out my extremeties. I like spontaneous unplanned outings. You would find me chilling with my friends in "their" hostel rooms on a monday afternoon. Though I am flexible with people, but my favourites are constant. I like to share my food so that I can later taste yours. I might be brutal sometimes Sorry Not Sorry, but I will always add "Let me be honest with you" in my answers.
+I am always ready to have a fine debate over "Should we take relationship advice from ChatGPT or not?"
+
+<h2>🎯 Professional Background</h2>
 <p>I'm a full-stack developer and AI/ML enthusiast passionate about building production-ready systems that solve real problems. I specialize in:</p>
 <ul>
 <li><b>Machine Learning & AI:</b> practical models, embeddings, and RAG pipelines</li>
 <li><b>Backend Systems:</b> scalable APIs, microservices, and deployment infrastructure</li>
-<li><b>Quantative Finance:</b> Portfolio Optimization, Quantitative research, Financial Modeling</li>
-<li><b>Computer Vision & Game AI:</b> visual systems and game theory</li>
+<li><b>Quant:</b> Portfolio Optimization, Quantitative research, Financial Modeling</li>
+<li><b>Computer Vision:</b> SOTA and Deep Learning Models Training and Deployment</li>
 </ul>
-<p>I focus on reproducible demos, clean APIs, and deployable prototypes at the intersection of research and product.</p>
+<p>"I try to maintain a cohesive convergence between scalable product infrastructures, clean mathematics, and robust algorithms. Engineering is the vehicle that drives mathematical models into beautiful realities."</p>
 
 <hr>
 
