@@ -56,15 +56,37 @@
 </table>
 
 --- 
+
 ## 📊 GitHub Stats
 
 <div align="center">
-
-![](https://github-readme-stats.shion.dev/api?username=agarwalsoham993&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=agarwalsoham993&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=agarwalsoham993&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
+  <img src="https://ghchart.rshah.org/39d353/agarwalsoham993" alt="agarwalsoham993 Contribution Calendar" width="100%" />
 </div>
+
+<br/>
+
+<table width="100%">
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <img src="https://github-readme-stats.shion.dev/api?username=agarwalsoham993&theme=dark&hide_border=false&include_all_commits=true&count_private=true" width="100%" alt="General Stats" />
+    </td>
+    <td width="50%" align="center" valign="top">
+      <img src="https://streak-stats.demolab.com/?user=agarwalsoham993&theme=dark&hide_border=false" width="100%" alt="Streak Metrics" />
+    </td>
+  </tr>
+</table>
+
+<br/>
+<table width="100%">
+  <tr>
+    <td width="35%" align="center" valign="middle">
+      <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=agarwalsoham993&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="100%" alt="Languages Profile" />
+    </td>
+    <td width="65%" align="center" valign="middle">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=agarwalsoham993&theme=holi&animation=draw&name=Soham+Agarwal" width="100%" alt="Profile Details Chart" />
+    </td>
+  </tr>
+</table>
 
 ---
 
